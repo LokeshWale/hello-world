@@ -1,7 +1,8 @@
 # hello-world
 new 
+NEW
 
-hi every one 
+hi every one! 
 
-Hello I am new here and Iam learning new thins and it 
-includes this also i mean learning composer also. 
+Hello I am new here and Iam learning new things and it includes this also I mean learning composer also.
+ 
